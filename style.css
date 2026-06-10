@@ -1,0 +1,51 @@
+header {
+    margin: 0;
+
+}
+
+header {
+    background-color: rgb(255, 255, 255);
+    height: 10vh;
+border: 3px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+}
+
+main {
+    height: 80vh;
+    border: 3px solid   grey;
+}
+
+footer {
+    height: 10vh;
+    border: 3px solid   grey;
+
+
+}
+
+.vermelho {
+    width: 200px;
+    color: rgb(255, 142, 142);
+}
+
+.azul {
+    width: 200px;
+    color: rgb(200, 201, 255);
+}
+
+.amarelo {
+    width: 200px;
+    color: rgb(255, 244, 142);
+}
+
+.container {
+
+    background-color: rgb(255, 255, 255);
+    width: 50vw;
+
+    display: flex;
+flex-direction: row;
+justify-content: end;
+}
