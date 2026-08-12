@@ -1,0 +1,40 @@
+.cabeca {
+display:flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+}
+
+.cabecalhoinicio {
+display: flex;
+flex-direction: row;
+gap: 16px;
+align-items: center;
+flex: 1;
+}
+
+.cabecalhocentro {
+display: flex;
+flex-direction: row;
+align-items: center;
+flex: 2;
+justify-content: center;
+}
+
+.logotipo {
+    text-decoration: none;
+    color: red;
+}
+ .logo_txt {
+font-size: 20px;
+font-weight: 700;
+letter-spacing: -1;
+
+ }
+
+.logo_pa {
+    display: flex;
+    align-items: flex-start;
+    font-size: 9px;
+    color: black;
+}
